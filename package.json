@@ -1,0 +1,13 @@
+{
+  "name": "@lee-gyu/react-native",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lee-gyu/react-native-pg",
+  "author": "lee-gyu <leegyu4dev@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "app/",
+    "packages/*"
+  ]
+}
